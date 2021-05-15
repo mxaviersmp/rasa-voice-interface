@@ -1,4 +1,4 @@
-# Agendador Voice Interface
+# Rasa Voice Interface
 
 This is the voice interface responsible for handling voice messages on the `rest`, `socketio` and `telegram` channels
 
